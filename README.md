@@ -1,1 +1,1 @@
-blog: <ongyx.github.io>
+blog: [ongyx.github.io](https://ongyx.github.io)
