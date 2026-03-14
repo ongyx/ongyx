@@ -1,13 +1,10 @@
-<h1 align="center">Hi, I'm Ong Yong Xin! 🌊</h1>
+<h1 align="center">Heyo, I'm Ong Yong Xin!</h1>
 <h3 align="center">A programmer and game developer from Singapore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ongyx&label=Profile%20views&color=0e75b6&style=flat" alt="ongyx" /> </p>
 
-- 🔭 I’m currently working on [Eh, How Ah?](https://www.impactcolliders.com/about.html).
-
-- 🌱 I’m currently learning **Unity and C#**.
-
-- ⚡ The neat thing about code is that it walks the thin line between prose and poetry.
+- I'm currently learning Unity and C#.
+- I'm working on a personal game project right now.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
